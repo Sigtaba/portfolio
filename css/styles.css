@@ -14,18 +14,10 @@ h2 {
   color: white;
 }
 
-
-.main {
-  margin-right: 10px;
-  margin-left: 10px;
-  margin-top: 10px;
-  color: black;
-}
 .panel-success .panel-heading {
   background-color: #DAA1E7;
   border: 1px solid #a3bfb1;
-  color: black;
-
+  color: white;
 }
 
 .panel-success {
@@ -38,22 +30,24 @@ h2 {
 .panel-info .panel-heading {
   background-color: #F0B9C4;
   border: 1px solid #a7d7f9;
-  color: black;
+  color: white;
 }
 
 .panel-info {
     background-color: white;
+    color: grey;
 }
 
 .panel-warning {
-  background-color: #faf5ff;
-  border: 1px solid #cbc3d5;
+  background-color: #white;
+  border: 1px solid #a7d7f9;
+  color: grey;
 }
 
 .panel-warning .panel-heading {
-  background-color: #ddcef2;
-  border: 1px solid #afa3bf;
-  color: black;
+  background-color: #A6D8B3;
+  border: 1px solid #a7d7f9;
+  color: white;
 }
 
 
@@ -70,6 +64,7 @@ font-size: 18px;
   padding-top: 120px;
 }
 
-ul {
-  list-style-type: none;
+.special {
+  color: #15DDD4;
+  font-weight: bolder;
 }
