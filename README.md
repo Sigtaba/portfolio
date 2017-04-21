@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a portfolio website which shows experience, skills, education, etc.. of Isabella Abatgis. View at: https://sigtaba.github.io/portfolio2/}
+_{This is a portfolio website which shows experience, skills, education, etc.. of Isabella Abatgis. View at: https://sigtaba.github.io/portfolio2/}_
 
 ## Setup/Installation Requirements
 
